@@ -9,4 +9,4 @@ Highlights
 
     Python, scikit-learn, YOLO, and OpenCV.
     Applications: Security, surveillance, and healthcare.
-    Tested on datasets like [e.g., CASIA-B, LFW].
+    Tested on datasets like [e.g., custom dataset].
